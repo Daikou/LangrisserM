@@ -4,14 +4,14 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-马修_Special/eye_1_Special
+Mathew_Special/eye_1_Special
   rotate: false
   xy: 325, 43
   size: 100, 29
   orig: 100, 29
   offset: 0, 0
   index: -1
-马修_Special/mouth_1_Special
+Mathew_Special/mouth_1_Special
   rotate: false
   xy: 409, 495
   size: 36, 7
