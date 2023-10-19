@@ -4,385 +4,385 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-迪欧斯/Blood_1
+Diors/Blood_1
   rotate: false
   xy: 1278, 1141
   size: 35, 72
   orig: 35, 72
   offset: 0, 0
   index: -1
-迪欧斯/Blood_2
+Diors/Blood_2
   rotate: false
   xy: 1999, 1654
   size: 41, 65
   orig: 41, 65
   offset: 0, 0
   index: -1
-迪欧斯/arm_inner_down
+Diors/arm_inner_down
   rotate: false
   xy: 1364, 1537
   size: 405, 182
   orig: 405, 182
   offset: 0, 0
   index: -1
-迪欧斯/arm_inner_up
+Diors/arm_inner_up
   rotate: true
   xy: 259, 630
   size: 171, 394
   orig: 171, 394
   offset: 0, 0
   index: -1
-迪欧斯/arm_out_down
+Diors/arm_out_down
   rotate: true
   xy: 499, 250
   size: 378, 179
   orig: 378, 179
   offset: 0, 0
   index: -1
-迪欧斯/arm_out_up
+Diors/arm_out_up
   rotate: false
   xy: 257, 258
   size: 240, 370
   orig: 240, 370
   offset: 0, 0
   index: -1
-迪欧斯/body_down
+Diors/body_down
   rotate: false
   xy: 1364, 1721
   size: 400, 319
   orig: 400, 319
   offset: 0, 0
   index: -1
-迪欧斯/body_up
+Diors/body_up
   rotate: false
   xy: 808, 1533
   size: 554, 507
   orig: 554, 507
   offset: 0, 0
   index: -1
-迪欧斯/eye_1_Angry
+Diors/eye_1_Angry
   rotate: false
   xy: 1906, 1721
   size: 136, 88
   orig: 136, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_1_Battle_Mighty
+Diors/eye_1_Battle_Mighty
   rotate: false
   xy: 297, 168
   size: 134, 88
   orig: 134, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_1_Battle_Weak
+Diors/eye_1_Battle_Weak
   rotate: false
   xy: 782, 840
   size: 135, 86
   orig: 135, 86
   offset: 0, 0
   index: -1
-迪欧斯/eye_1_Normal_1
+Diors/eye_1_Normal_1
   rotate: true
   xy: 1633, 1222
   size: 134, 88
   orig: 134, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_1_Normal_2
+Diors/eye_1_Normal_2
   rotate: false
   xy: 782, 928
   size: 134, 88
   orig: 134, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_1_Normal_3
+Diors/eye_1_Normal_3
   rotate: false
   xy: 918, 928
   size: 134, 88
   orig: 134, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_1_Sad
+Diors/eye_1_Sad
   rotate: false
   xy: 1861, 1631
   size: 136, 88
   orig: 136, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_1_Smile
+Diors/eye_1_Smile
   rotate: false
   xy: 1766, 1721
   size: 138, 88
   orig: 138, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_2_Firm
+Diors/eye_2_Firm
   rotate: true
   xy: 1771, 1582
   size: 137, 88
   orig: 137, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_2_Normal_1
+Diors/eye_2_Normal_1
   rotate: false
   xy: 1054, 928
   size: 134, 88
   orig: 134, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_2_Normal_2
+Diors/eye_2_Normal_2
   rotate: false
   xy: 919, 838
   size: 134, 88
   orig: 134, 88
   offset: 0, 0
   index: -1
-迪欧斯/eye_2_Normal_3
+Diors/eye_2_Normal_3
   rotate: false
   xy: 1055, 838
   size: 134, 88
   orig: 134, 88
   offset: 0, 0
   index: -1
-迪欧斯/face_1
+Diors/face_1
   rotate: true
   xy: 1766, 1811
   size: 229, 280
   orig: 229, 280
   offset: 0, 0
   index: -1
-迪欧斯/hand_inner
+Diors/hand_inner
   rotate: false
   xy: 2, 2
   size: 199, 109
   orig: 199, 109
   offset: 0, 0
   index: -1
-迪欧斯/hand_out
+Diors/hand_out
   rotate: false
   xy: 1656, 1358
   size: 92, 177
   orig: 92, 177
   offset: 0, 0
   index: -1
-迪欧斯/jianjia_inner_1
+Diors/jianjia_inner_1
   rotate: false
   xy: 808, 1119
   size: 468, 94
   orig: 468, 94
   offset: 0, 0
   index: -1
-迪欧斯/jianjia_inner_2
+Diors/jianjia_inner_2
   rotate: false
   xy: 808, 1018
   size: 440, 99
   orig: 440, 99
   offset: 0, 0
   index: -1
-迪欧斯/jianjia_out_1
+Diors/jianjia_out_1
   rotate: false
   xy: 808, 1215
   size: 513, 148
   orig: 513, 148
   offset: 0, 0
   index: -1
-迪欧斯/jianjia_out_2
+Diors/jianjia_out_2
   rotate: true
   xy: 2, 240
   size: 418, 253
   orig: 418, 253
   offset: 0, 0
   index: -1
-迪欧斯/leg_inner1
+Diors/leg_inner1
   rotate: false
   xy: 259, 803
   size: 375, 1237
   orig: 375, 1237
   offset: 0, 0
   index: -1
-迪欧斯/leg_out1
+Diors/leg_out1
   rotate: false
   xy: 2, 660
   size: 255, 1380
   orig: 255, 1380
   offset: 0, 0
   index: -1
-迪欧斯/lingzi_inner_1
+Diors/lingzi_inner_1
   rotate: false
   xy: 2, 113
   size: 293, 125
   orig: 293, 125
   offset: 0, 0
   index: -1
-迪欧斯/lingzi_inner_2
+Diors/lingzi_inner_2
   rotate: false
   xy: 297, 116
   size: 98, 50
   orig: 98, 50
   offset: 0, 0
   index: -1
-迪欧斯/lingzi_out
+Diors/lingzi_out
   rotate: false
   xy: 1323, 1173
   size: 308, 190
   orig: 308, 190
   offset: 0, 0
   index: -1
-迪欧斯/mouth_1_Angry
+Diors/mouth_1_Angry
   rotate: false
   xy: 762, 642
   size: 100, 96
   orig: 100, 96
   offset: 0, 0
   index: -1
-迪欧斯/mouth_1_Battle_Mighty
+Diors/mouth_1_Battle_Mighty
   rotate: true
   xy: 680, 333
   size: 100, 96
   orig: 100, 96
   offset: 0, 0
   index: -1
-迪欧斯/mouth_1_Battle_Weak
+Diors/mouth_1_Battle_Weak
   rotate: false
   xy: 680, 236
   size: 99, 95
   orig: 99, 95
   offset: 0, 0
   index: -1
-迪欧斯/mouth_1_Normal_A
+Diors/mouth_1_Normal_A
   rotate: true
   xy: 781, 235
   size: 99, 95
   orig: 99, 95
   offset: 0, 0
   index: -1
-迪欧斯/mouth_2_Normal_A
+Diors/mouth_2_Normal_A
   rotate: true
   xy: 781, 235
   size: 99, 95
   orig: 99, 95
   offset: 0, 0
   index: -1
-迪欧斯/mouth_1_Normal_B
+Diors/mouth_1_Normal_B
   rotate: true
   xy: 302, 15
   size: 99, 95
   orig: 99, 95
   offset: 0, 0
   index: -1
-迪欧斯/mouth_2_Normal_B
+Diors/mouth_2_Normal_B
   rotate: true
   xy: 302, 15
   size: 99, 95
   orig: 99, 95
   offset: 0, 0
   index: -1
-迪欧斯/mouth_1_Normal_C
+Diors/mouth_1_Normal_C
   rotate: true
   xy: 680, 538
   size: 101, 96
   orig: 101, 96
   offset: 0, 0
   index: -1
-迪欧斯/mouth_1_Normal_D
+Diors/mouth_1_Normal_D
   rotate: false
   xy: 655, 741
   size: 105, 98
   orig: 105, 98
   offset: 0, 0
   index: -1
-迪欧斯/mouth_1_Sad
+Diors/mouth_1_Sad
   rotate: true
   xy: 778, 437
   size: 100, 96
   orig: 100, 96
   offset: 0, 0
   index: -1
-迪欧斯/mouth_1_Smile
+Diors/mouth_1_Smile
   rotate: true
   xy: 203, 5
   size: 106, 97
   orig: 106, 97
   offset: 0, 0
   index: -1
-迪欧斯/mouth_2_Firm
+Diors/mouth_2_Firm
   rotate: false
   xy: 1861, 1534
   size: 99, 95
   orig: 99, 95
   offset: 0, 0
   index: -1
-迪欧斯/mouth_2_Normal_C
+Diors/mouth_2_Normal_C
   rotate: true
   xy: 680, 435
   size: 101, 96
   orig: 101, 96
   offset: 0, 0
   index: -1
-迪欧斯/mouth_2_Normal_D
+Diors/mouth_2_Normal_D
   rotate: false
   xy: 655, 641
   size: 105, 98
   orig: 105, 98
   offset: 0, 0
   index: -1
-迪欧斯/mouth_2_Unhappy_A
+Diors/mouth_2_Unhappy_A
   rotate: false
   xy: 762, 740
   size: 100, 98
   orig: 100, 98
   offset: 0, 0
   index: -1
-迪欧斯/mouth_2_Unhappy_B
+Diors/mouth_2_Unhappy_B
   rotate: true
   xy: 778, 539
   size: 101, 95
   orig: 101, 95
   offset: 0, 0
   index: -1
-迪欧斯/mouth_2_Unhappy_C
+Diors/mouth_2_Unhappy_C
   rotate: true
   xy: 778, 336
   size: 99, 98
   orig: 99, 98
   offset: 0, 0
   index: -1
-迪欧斯/mouth_2_Unhappy_D
+Diors/mouth_2_Unhappy_D
   rotate: false
   xy: 493, 150
   size: 99, 98
   orig: 99, 98
   offset: 0, 0
   index: -1
-迪欧斯/neck
+Diors/neck
   rotate: false
   xy: 636, 841
   size: 144, 211
   orig: 144, 211
   offset: 0, 0
   index: -1
-迪欧斯/shipin_inner
+Diors/shipin_inner
   rotate: false
   xy: 1633, 1174
   size: 81, 46
   orig: 81, 46
   offset: 0, 0
   index: -1
-迪欧斯/shipin_out
+Diors/shipin_out
   rotate: true
   xy: 433, 170
   size: 86, 58
   orig: 86, 58
   offset: 0, 0
   index: -1
-迪欧斯/weapon_1
+Diors/weapon_1
   rotate: false
   xy: 636, 1054
   size: 170, 986
   orig: 170, 986
   offset: 0, 0
   index: -1
-迪欧斯/weapon_2
+Diors/weapon_2
   rotate: false
   xy: 808, 1365
   size: 846, 166
