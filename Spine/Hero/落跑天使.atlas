@@ -4,448 +4,448 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-落跑天使/arm_inner_down
+SherryAngel_Skin/arm_inner_down
   rotate: true
   xy: 1508, 1455
   size: 145, 86
   orig: 145, 86
   offset: 0, 0
   index: -1
-落跑天使/arm_inner_up
+SherryAngel_Skin/arm_inner_up
   rotate: true
   xy: 817, 743
   size: 85, 276
   orig: 85, 276
   offset: 0, 0
   index: -1
-落跑天使/arm_out_down
+SherryAngel_Skin/arm_out_down
   rotate: true
   xy: 817, 660
   size: 81, 205
   orig: 81, 205
   offset: 0, 0
   index: -1
-落跑天使/arm_out_up
+SherryAngel_Skin/arm_out_up
   rotate: true
   xy: 785, 830
   size: 91, 264
   orig: 91, 264
   offset: 0, 0
   index: -1
-落跑天使/blood_1
+SherryAngel_Skin/blood_1
   rotate: false
   xy: 785, 955
   size: 22, 38
   orig: 22, 38
   offset: 0, 0
   index: -1
-落跑天使/blood_2
+SherryAngel_Skin/blood_2
   rotate: true
   xy: 1482, 1419
   size: 39, 19
   orig: 39, 19
   offset: 0, 0
   index: -1
-落跑天使/body_up
+SherryAngel_Skin/body_up
   rotate: false
   xy: 821, 923
   size: 216, 329
   orig: 216, 329
   offset: 0, 0
   index: -1
-落跑天使/chest
+SherryAngel_Skin/chest
   rotate: false
   xy: 1621, 1727
   size: 189, 142
   orig: 189, 142
   offset: 0, 0
   index: -1
-落跑天使/dress_1
+SherryAngel_Skin/dress_1
   rotate: false
   xy: 814, 565
   size: 179, 93
   orig: 179, 93
   offset: 0, 0
   index: -1
-落跑天使/dress_2
+SherryAngel_Skin/dress_2
   rotate: true
   xy: 665, 405
   size: 270, 147
   orig: 270, 147
   offset: 0, 0
   index: -1
-落跑天使/dress_3
+SherryAngel_Skin/dress_3
   rotate: false
   xy: 814, 439
   size: 133, 124
   orig: 133, 124
   offset: 0, 0
   index: -1
-落跑天使/dress_inner
+SherryAngel_Skin/dress_inner
   rotate: false
   xy: 343, 995
   size: 476, 257
   orig: 476, 257
   offset: 0, 0
   index: -1
-落跑天使/dress_out_1
+SherryAngel_Skin/dress_out_1
   rotate: false
   xy: 2, 1312
   size: 426, 734
   orig: 426, 734
   offset: 0, 0
   index: -1
-落跑天使/dress_out_2
+SherryAngel_Skin/dress_out_2
   rotate: true
   xy: 430, 1838
   size: 208, 762
   orig: 208, 762
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Angry
+SherryAngel_Skin/eye_1_Angry
   rotate: false
   xy: 1022, 1284
   size: 115, 50
   orig: 115, 50
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Battle_Injury
+SherryAngel_Skin/eye_1_Battle_Injury
   rotate: true
   xy: 1782, 1620
   size: 105, 41
   orig: 105, 41
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Battle_Mighty
+SherryAngel_Skin/eye_1_Battle_Mighty
   rotate: true
   xy: 949, 448
   size: 115, 49
   orig: 115, 49
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Battle_Weak
+SherryAngel_Skin/eye_1_Battle_Weak
   rotate: false
   xy: 1365, 1319
   size: 110, 44
   orig: 110, 44
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Normal_1
+SherryAngel_Skin/eye_1_Normal_1
   rotate: false
   xy: 1139, 1297
   size: 115, 50
   orig: 115, 50
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Normal_2
+SherryAngel_Skin/eye_1_Normal_2
   rotate: true
   xy: 595, 320
   size: 112, 50
   orig: 112, 50
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Normal_3
+SherryAngel_Skin/eye_1_Normal_3
   rotate: false
   xy: 1256, 1301
   size: 107, 49
   orig: 107, 49
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Sad
+SherryAngel_Skin/eye_1_Sad
   rotate: true
   xy: 549, 244
   size: 115, 44
   orig: 115, 44
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Shy
+SherryAngel_Skin/eye_1_Shy
   rotate: true
   xy: 549, 127
   size: 115, 47
   orig: 115, 47
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Smile
+SherryAngel_Skin/eye_1_Smile
   rotate: true
   xy: 549, 17
   size: 108, 47
   orig: 108, 47
   offset: 0, 0
   index: -1
-落跑天使/eye_1_Suprise
+SherryAngel_Skin/eye_1_Suprise
   rotate: true
   xy: 1726, 1447
   size: 115, 51
   orig: 115, 51
   offset: 0, 0
   index: -1
-落跑天使/face
+SherryAngel_Skin/face
   rotate: false
   xy: 418, 434
   size: 245, 241
   orig: 245, 241
   offset: 0, 0
   index: -1
-落跑天使/hair_1
+SherryAngel_Skin/hair_1
   rotate: false
   xy: 1596, 1443
   size: 128, 119
   orig: 128, 119
   offset: 0, 0
   index: -1
-落跑天使/hair_2
+SherryAngel_Skin/hair_2
   rotate: true
   xy: 1084, 1602
   size: 83, 100
   orig: 83, 100
   offset: 0, 0
   index: -1
-落跑天使/hair_3
+SherryAngel_Skin/hair_3
   rotate: true
   xy: 418, 361
   size: 71, 175
   orig: 71, 175
   offset: 0, 0
   index: -1
-落跑天使/hair_4
+SherryAngel_Skin/hair_4
   rotate: true
   xy: 1361, 1365
   size: 93, 119
   orig: 93, 119
   offset: 0, 0
   index: -1
-落跑天使/hair_5
+SherryAngel_Skin/hair_5
   rotate: false
   xy: 1022, 1336
   size: 115, 120
   orig: 115, 120
   offset: 0, 0
   index: -1
-落跑天使/hand_inner_1
+SherryAngel_Skin/hand_inner_1
   rotate: false
   xy: 343, 1260
   size: 81, 50
   orig: 81, 50
   offset: 0, 0
   index: -1
-落跑天使/hand_out
+SherryAngel_Skin/hand_out
   rotate: false
   xy: 1250, 1352
   size: 109, 106
   orig: 109, 106
   offset: 0, 0
   index: -1
-落跑天使/hongyun
+SherryAngel_Skin/hongyun
   rotate: false
   xy: 814, 403
   size: 117, 34
   orig: 117, 34
   offset: 0, 0
   index: -1
-落跑天使/leg_inner_1
+SherryAngel_Skin/leg_inner_1
   rotate: true
   xy: 343, 677
   size: 135, 472
   orig: 135, 472
   offset: 0, 0
   index: -1
-落跑天使/leg_inner_2
+SherryAngel_Skin/leg_inner_2
   rotate: true
   xy: 343, 814
   size: 179, 440
   orig: 179, 440
   offset: 0, 0
   index: -1
-落跑天使/leg_out_1
+SherryAngel_Skin/leg_out_1
   rotate: true
   xy: 1194, 1727
   size: 142, 425
   orig: 142, 425
   offset: 0, 0
   index: -1
-落跑天使/leg_out_2
+SherryAngel_Skin/leg_out_2
   rotate: true
   xy: 1187, 1602
   size: 123, 425
   orig: 123, 425
   offset: 0, 0
   index: -1
-落跑天使/mouth_1_Angry
+SherryAngel_Skin/mouth_1_Angry
   rotate: false
   xy: 1022, 1254
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
-落跑天使/mouth_1_Battle_Injury
+SherryAngel_Skin/mouth_1_Battle_Injury
   rotate: false
   xy: 1051, 1255
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
-落跑天使/mouth_1_Battle_Mighty
+SherryAngel_Skin/mouth_1_Battle_Mighty
   rotate: false
   xy: 595, 301
   size: 29, 17
   orig: 29, 17
   offset: 0, 0
   index: -1
-落跑天使/mouth_1_Battle_Weak
+SherryAngel_Skin/mouth_1_Battle_Weak
   rotate: false
   xy: 270, 337
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
   index: -1
-落跑天使/mouth_1_Normal
+SherryAngel_Skin/mouth_1_Normal
   rotate: true
   xy: 785, 923
   size: 30, 19
   orig: 30, 19
   offset: 0, 0
   index: -1
-落跑天使/mouth_1_Sad
+SherryAngel_Skin/mouth_1_Sad
   rotate: true
   xy: 647, 408
   size: 24, 15
   orig: 24, 15
   offset: 0, 0
   index: -1
-落跑天使/mouth_1_Shy
+SherryAngel_Skin/mouth_1_Shy
   rotate: false
   xy: 1596, 1585
   size: 16, 15
   orig: 16, 15
   offset: 0, 0
   index: -1
-落跑天使/mouth_1_Smile
+SherryAngel_Skin/mouth_1_Smile
   rotate: false
   xy: 995, 635
   size: 26, 23
   orig: 26, 23
   offset: 0, 0
   index: -1
-落跑天使/mouth_1_Suprise
+SherryAngel_Skin/mouth_1_Suprise
   rotate: false
   xy: 1812, 1846
   size: 22, 23
   orig: 22, 23
   offset: 0, 0
   index: -1
-落跑天使/neck
+SherryAngel_Skin/neck
   rotate: false
   xy: 1024, 663
   size: 70, 78
   orig: 70, 78
   offset: 0, 0
   index: -1
-落跑天使/shipin
+SherryAngel_Skin/shipin
   rotate: true
   xy: 743, 328
   size: 75, 54
   orig: 75, 54
   offset: 0, 0
   index: -1
-落跑天使/toushi
+SherryAngel_Skin/toushi
   rotate: false
   xy: 1139, 1349
   size: 109, 109
   orig: 109, 109
   offset: 0, 0
   index: -1
-落跑天使/weapon_1
+SherryAngel_Skin/weapon_1
   rotate: true
   xy: 56, 337
   size: 333, 212
   orig: 333, 212
   offset: 0, 0
   index: -1
-落跑天使/weapon_2
+SherryAngel_Skin/weapon_2
   rotate: true
   xy: 2, 337
   size: 973, 52
   orig: 973, 52
   offset: 0, 0
   index: -1
-落跑天使/wing_inner_1
+SherryAngel_Skin/wing_inner_1
   rotate: false
   xy: 430, 1458
   size: 652, 227
   orig: 652, 227
   offset: 0, 0
   index: -1
-落跑天使/wing_inner_2_1
+SherryAngel_Skin/wing_inner_2_1
   rotate: false
   xy: 430, 1254
   size: 590, 202
   orig: 590, 202
   offset: 0, 0
   index: -1
-落跑天使/wing_inner_2_2
+SherryAngel_Skin/wing_inner_2_2
   rotate: true
   xy: 270, 357
   size: 313, 146
   orig: 313, 146
   offset: 0, 0
   index: -1
-落跑天使/wing_inner_3
+SherryAngel_Skin/wing_inner_3
   rotate: false
   xy: 56, 672
   size: 285, 638
   orig: 285, 638
   offset: 0, 0
   index: -1
-落跑天使/wing_out_1
+SherryAngel_Skin/wing_out_1
   rotate: true
   xy: 1194, 1871
   size: 175, 649
   orig: 175, 649
   offset: 0, 0
   index: -1
-落跑天使/wing_out_2_1
+SherryAngel_Skin/wing_out_2_1
   rotate: true
   xy: 430, 1687
   size: 149, 755
   orig: 149, 755
   offset: 0, 0
   index: -1
-落跑天使/wing_out_2_2
+SherryAngel_Skin/wing_out_2_2
   rotate: false
   xy: 1845, 1756
   size: 201, 290
   orig: 201, 290
   offset: 0, 0
   index: -1
-落跑天使/wing_out_2_3
+SherryAngel_Skin/wing_out_2_3
   rotate: true
   xy: 379, 2
   size: 353, 168
   orig: 353, 168
   offset: 0, 0
   index: -1
-落跑天使/wing_out_3_1
+SherryAngel_Skin/wing_out_3_1
   rotate: true
   xy: 1084, 1460
   size: 140, 422
   orig: 140, 422
   offset: 0, 0
   index: -1
-落跑天使/wing_out_3_2
+SherryAngel_Skin/wing_out_3_2
   rotate: false
   xy: 2, 2
   size: 375, 333
   orig: 375, 333
   offset: 0, 0
   index: -1
-落跑天使/yaojia_inner
+SherryAngel_Skin/yaojia_inner
   rotate: true
   xy: 647, 316
   size: 87, 94
   orig: 87, 94
   offset: 0, 0
   index: -1
-落跑天使/yaojia_out
+SherryAngel_Skin/yaojia_out
   rotate: true
   xy: 1614, 1564
   size: 161, 166
