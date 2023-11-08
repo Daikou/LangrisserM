@@ -1,0 +1,874 @@
+
+毛茸茸霸权.png
+size: 2087,2087
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_Pipimi/arm_inner_down
+  rotate: false
+  xy: 1810, 1129
+  size: 185, 159
+  orig: 185, 159
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/arm_inner_up
+  rotate: true
+  xy: 1978, 1401
+  size: 104, 107
+  orig: 104, 107
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/arm_out_down
+  rotate: true
+  xy: 1816, 1529
+  size: 243, 161
+  orig: 243, 161
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/arm_out_up
+  rotate: true
+  xy: 1322, 1012
+  size: 214, 93
+  orig: 214, 93
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/body
+  rotate: false
+  xy: 590, 1754
+  size: 532, 331
+  orig: 532, 331
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_Angry_1
+  rotate: false
+  xy: 1500, 84
+  size: 178, 184
+  orig: 178, 184
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_Battle_Injury
+  rotate: true
+  xy: 1381, 1351
+  size: 192, 183
+  orig: 192, 183
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_Battle_Mighty
+  rotate: false
+  xy: 1504, 781
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_Battle_Weak
+  rotate: false
+  xy: 1550, 420
+  size: 178, 175
+  orig: 178, 175
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_Normal_1
+  rotate: false
+  xy: 1686, 781
+  size: 178, 175
+  orig: 178, 175
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_Normal_2
+  rotate: false
+  xy: 1306, 85
+  size: 192, 183
+  orig: 192, 183
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_Sad
+  rotate: false
+  xy: 739, 148
+  size: 178, 213
+  orig: 178, 213
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_Smile
+  rotate: true
+  xy: 1525, 597
+  size: 182, 168
+  orig: 182, 168
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_firm
+  rotate: false
+  xy: 932, 1220
+  size: 190, 155
+  orig: 190, 155
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_shy
+  rotate: true
+  xy: 1730, 416
+  size: 181, 162
+  orig: 181, 162
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_1_worry_1
+  rotate: false
+  xy: 1712, 247
+  size: 178, 167
+  orig: 178, 167
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/eye_2_Smile
+  rotate: true
+  xy: 1695, 599
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/face
+  rotate: false
+  xy: 2, 1105
+  size: 359, 576
+  orig: 359, 576
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/hair_1
+  rotate: true
+  xy: 353, 59
+  size: 263, 153
+  orig: 263, 153
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/hair_2
+  rotate: false
+  xy: 490, 1258
+  size: 127, 423
+  orig: 127, 423
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/hair_3
+  rotate: false
+  xy: 363, 1212
+  size: 125, 469
+  orig: 125, 469
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/hair_4
+  rotate: false
+  xy: 2, 1683
+  size: 586, 402
+  orig: 586, 402
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/han
+  rotate: true
+  xy: 413, 20
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/hand_inner_1
+  rotate: true
+  xy: 1871, 950
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/hand_inner_2
+  rotate: true
+  xy: 1154, 14
+  size: 123, 139
+  orig: 123, 139
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/hand_out
+  rotate: true
+  xy: 1894, 478
+  size: 152, 118
+  orig: 152, 118
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/hongyun
+  rotate: false
+  xy: 2, 4
+  size: 208, 53
+  orig: 208, 53
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/hudiejie
+  rotate: false
+  xy: 596, 581
+  size: 239, 185
+  orig: 239, 185
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/leg_inner
+  rotate: false
+  xy: 1124, 1351
+  size: 255, 194
+  orig: 255, 194
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/leg_out_1
+  rotate: true
+  xy: 1894, 371
+  size: 105, 130
+  orig: 105, 130
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/leg_out_2
+  rotate: false
+  xy: 1747, 958
+  size: 122, 75
+  orig: 122, 75
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/lingzi_1
+  rotate: true
+  xy: 366, 672
+  size: 256, 135
+  orig: 256, 135
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/lingzi_2
+  rotate: false
+  xy: 1892, 276
+  size: 115, 93
+  orig: 115, 93
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_Angry
+  rotate: true
+  xy: 212, 2
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_Battle_Injury
+  rotate: false
+  xy: 1495, 46
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_Battle_Mighty
+  rotate: false
+  xy: 1606, 51
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_Battle_Weak
+  rotate: false
+  xy: 1606, 51
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_Normal_1
+  rotate: false
+  xy: 1606, 51
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_Smile
+  rotate: false
+  xy: 1606, 51
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_shy
+  rotate: false
+  xy: 1606, 51
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_Normal_2
+  rotate: false
+  xy: 1554, 41
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_firm
+  rotate: true
+  xy: 1776, 1166
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_1_worry
+  rotate: false
+  xy: 1486, 1015
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+NPC_Pipimi/mouth_2_Smile
+  rotate: false
+  xy: 1486, 1015
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+NPC_Popuko/arm_inner_down
+  rotate: true
+  xy: 1566, 1346
+  size: 194, 248
+  orig: 194, 248
+  offset: 0, 0
+  index: -1
+NPC_Popuko/arm_inner_up
+  rotate: false
+  xy: 817, 780
+  size: 216, 230
+  orig: 216, 230
+  offset: 0, 0
+  index: -1
+NPC_Popuko/arm_out_down
+  rotate: true
+  xy: 580, 389
+  size: 190, 245
+  orig: 190, 245
+  offset: 0, 0
+  index: -1
+NPC_Popuko/arm_out_up
+  rotate: false
+  xy: 1312, 584
+  size: 211, 187
+  orig: 211, 187
+  offset: 0, 0
+  index: -1
+NPC_Popuko/body
+  rotate: true
+  xy: 2, 650
+  size: 453, 362
+  orig: 453, 362
+  offset: 0, 0
+  index: -1
+NPC_Popuko/ear
+  rotate: true
+  xy: 1295, 13
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_Angry_1
+  rotate: true
+  xy: 1035, 780
+  size: 230, 157
+  orig: 230, 157
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_Angry_2
+  rotate: false
+  xy: 1997, 1240
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_Battle_Injury
+  rotate: true
+  xy: 919, 135
+  size: 226, 154
+  orig: 226, 154
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_Battle_Mighty
+  rotate: true
+  xy: 1194, 780
+  size: 230, 154
+  orig: 230, 154
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_Battle_Weak
+  rotate: false
+  xy: 508, 37
+  size: 229, 156
+  orig: 229, 156
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_Normal_1
+  rotate: false
+  xy: 1319, 426
+  size: 229, 156
+  orig: 229, 156
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_Normal_2
+  rotate: false
+  xy: 1075, 297
+  size: 229, 156
+  orig: 229, 156
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_Sad
+  rotate: false
+  xy: 508, 195
+  size: 229, 192
+  orig: 229, 192
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_Smile
+  rotate: true
+  xy: 1350, 773
+  size: 237, 152
+  orig: 237, 152
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_firm
+  rotate: false
+  xy: 918, 6
+  size: 234, 127
+  orig: 234, 127
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_special
+  rotate: false
+  xy: 1075, 139
+  size: 229, 156
+  orig: 229, 156
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_1_worry_1
+  rotate: false
+  xy: 1545, 1057
+  size: 229, 159
+  orig: 229, 159
+  offset: 0, 0
+  index: -1
+NPC_Popuko/eye_2_Smile
+  rotate: false
+  xy: 1306, 270
+  size: 230, 154
+  orig: 230, 154
+  offset: 0, 0
+  index: -1
+NPC_Popuko/face_1
+  rotate: true
+  xy: 2, 248
+  size: 400, 338
+  orig: 400, 338
+  offset: 0, 0
+  index: -1
+NPC_Popuko/face_2
+  rotate: false
+  xy: 1420, 1545
+  size: 145, 261
+  orig: 145, 261
+  offset: 0, 0
+  index: -1
+NPC_Popuko/hair_1
+  rotate: true
+  xy: 1417, 1048
+  size: 187, 126
+  orig: 187, 126
+  offset: 0, 0
+  index: -1
+NPC_Popuko/hair_2
+  rotate: false
+  xy: 1538, 295
+  size: 172, 123
+  orig: 172, 123
+  offset: 0, 0
+  index: -1
+NPC_Popuko/hair_3
+  rotate: false
+  xy: 1979, 1507
+  size: 105, 277
+  orig: 105, 277
+  offset: 0, 0
+  index: -1
+NPC_Popuko/hair_4
+  rotate: false
+  xy: 491, 961
+  size: 94, 295
+  orig: 94, 295
+  offset: 0, 0
+  index: -1
+NPC_Popuko/han
+  rotate: false
+  xy: 1451, 17
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+NPC_Popuko/hand_inner
+  rotate: true
+  xy: 1680, 81
+  size: 164, 172
+  orig: 164, 172
+  offset: 0, 0
+  index: -1
+NPC_Popuko/hand_out
+  rotate: false
+  xy: 1866, 787
+  size: 157, 161
+  orig: 157, 161
+  offset: 0, 0
+  index: -1
+NPC_Popuko/leg_inner
+  rotate: true
+  xy: 1776, 1035
+  size: 92, 208
+  orig: 92, 208
+  offset: 0, 0
+  index: -1
+NPC_Popuko/leg_out
+  rotate: true
+  xy: 1545, 958
+  size: 97, 200
+  orig: 97, 200
+  offset: 0, 0
+  index: -1
+NPC_Popuko/lingzi_1
+  rotate: false
+  xy: 1124, 1228
+  size: 287, 121
+  orig: 287, 121
+  offset: 0, 0
+  index: -1
+NPC_Popuko/lingzi_2
+  rotate: false
+  xy: 1978, 1295
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_Angry
+  rotate: false
+  xy: 835, 1220
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_Battle_Injury
+  rotate: false
+  xy: 835, 1220
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_Battle_Mighty
+  rotate: false
+  xy: 835, 1220
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_Normal
+  rotate: false
+  xy: 835, 1220
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_Sad
+  rotate: false
+  xy: 835, 1220
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_Smile
+  rotate: false
+  xy: 835, 1220
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_worry
+  rotate: false
+  xy: 835, 1220
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_2_Smile
+  rotate: false
+  xy: 835, 1220
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_Battle_Weak
+  rotate: false
+  xy: 251, 22
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_Normal_2
+  rotate: false
+  xy: 1417, 1016
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_firm
+  rotate: true
+  xy: 2057, 1219
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+NPC_Popuko/mouth_1_special
+  rotate: false
+  xy: 332, 22
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+NPC_Popuko/point
+  rotate: false
+  xy: 1312, 773
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/arm_inner_down_2
+  rotate: true
+  xy: 342, 324
+  size: 324, 121
+  orig: 324, 121
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/arm_inner_up_2
+  rotate: false
+  xy: 366, 930
+  size: 123, 280
+  orig: 123, 280
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/arm_out_down_2
+  rotate: false
+  xy: 465, 401
+  size: 113, 265
+  orig: 113, 265
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/arm_out_up_2
+  rotate: true
+  xy: 1816, 1290
+  size: 237, 160
+  orig: 237, 160
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/body_2_1
+  rotate: false
+  xy: 619, 1402
+  size: 336, 350
+  orig: 336, 350
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/body_2_2
+  rotate: false
+  xy: 1077, 584
+  size: 233, 194
+  orig: 233, 194
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/chibang_1
+  rotate: false
+  xy: 2, 59
+  size: 349, 187
+  orig: 349, 187
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/chibang_2
+  rotate: true
+  xy: 619, 1243
+  size: 157, 311
+  orig: 157, 311
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/eye_2_Angry_1
+  rotate: false
+  xy: 837, 571
+  size: 238, 207
+  orig: 238, 207
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/eye_2_Angry_2
+  rotate: true
+  xy: 1997, 1185
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/eye_2_Battle_Injury
+  rotate: false
+  xy: 587, 1016
+  size: 246, 225
+  orig: 246, 225
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/eye_2_Battle_Mighty
+  rotate: false
+  xy: 835, 1012
+  size: 246, 206
+  orig: 246, 206
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/eye_2_Battle_Weak
+  rotate: false
+  xy: 1083, 1012
+  size: 237, 206
+  orig: 237, 206
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/eye_2_Normal_1
+  rotate: false
+  xy: 827, 363
+  size: 238, 206
+  orig: 238, 206
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/eye_2_Sad
+  rotate: false
+  xy: 1567, 1542
+  size: 247, 230
+  orig: 247, 230
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/eye_2_Smile
+  rotate: true
+  xy: 596, 768
+  size: 246, 219
+  orig: 246, 219
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/eye_2_shy
+  rotate: false
+  xy: 1124, 1547
+  size: 294, 259
+  orig: 294, 259
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/face_2
+  rotate: false
+  xy: 1572, 1774
+  size: 396, 311
+  orig: 396, 311
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/hair_2_1
+  rotate: false
+  xy: 1970, 1786
+  size: 105, 299
+  orig: 105, 299
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/hair_2_2
+  rotate: false
+  xy: 503, 668
+  size: 91, 291
+  orig: 91, 291
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/hair_2_3
+  rotate: false
+  xy: 1872, 632
+  size: 140, 153
+  orig: 140, 153
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/hair_2_4
+  rotate: false
+  xy: 739, 34
+  size: 177, 112
+  orig: 177, 112
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/hand_2_inner
+  rotate: false
+  xy: 1854, 75
+  size: 152, 170
+  orig: 152, 170
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/hand_out_2
+  rotate: false
+  xy: 1413, 1237
+  size: 151, 112
+  orig: 151, 112
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/leg_2_inner
+  rotate: false
+  xy: 1566, 1218
+  size: 242, 126
+  orig: 242, 126
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/leg_2_out
+  rotate: true
+  xy: 1077, 455
+  size: 127, 240
+  orig: 127, 240
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/mouth_2_Angry
+  rotate: true
+  xy: 465, 336
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/mouth_2_Battle_Injury
+  rotate: true
+  xy: 465, 336
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/mouth_2_Battle_Mighty
+  rotate: true
+  xy: 465, 336
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/mouth_2_Normal_1
+  rotate: true
+  xy: 465, 336
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/mouth_2_Sad
+  rotate: true
+  xy: 465, 336
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/mouth_2_Battle_Weak
+  rotate: false
+  xy: 1381, 23
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/mouth_2_Smile
+  rotate: false
+  xy: 1997, 1142
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/weiba_1
+  rotate: true
+  xy: 957, 1377
+  size: 375, 165
+  orig: 375, 165
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin04/weiba_2
+  rotate: false
+  xy: 1124, 1808
+  size: 446, 277
+  orig: 446, 277
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,328 @@
+
+Q巨拉.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zigodlla_Skin02/blood_1
+  rotate: false
+  xy: 478, 1032
+  size: 107, 179
+  orig: 107, 179
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/blood_2
+  rotate: false
+  xy: 1161, 1792
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/body
+  rotate: false
+  xy: 2, 1370
+  size: 697, 676
+  orig: 697, 676
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/ear_inner
+  rotate: false
+  xy: 1332, 827
+  size: 138, 141
+  orig: 138, 141
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/ear_out
+  rotate: false
+  xy: 755, 250
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Angry_1
+  rotate: false
+  xy: 1198, 1860
+  size: 464, 186
+  orig: 464, 186
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Angry_2
+  rotate: false
+  xy: 1972, 1987
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Battle_Injury
+  rotate: true
+  xy: 2, 112
+  size: 478, 150
+  orig: 478, 150
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Battle_Mighty
+  rotate: false
+  xy: 701, 1425
+  size: 458, 205
+  orig: 458, 205
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Battle_Weak
+  rotate: true
+  xy: 154, 116
+  size: 474, 151
+  orig: 474, 151
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Normal_1
+  rotate: false
+  xy: 2, 795
+  size: 458, 207
+  orig: 458, 207
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Normal_2
+  rotate: false
+  xy: 2, 1004
+  size: 474, 207
+  orig: 474, 207
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Normal_3
+  rotate: false
+  xy: 701, 1281
+  size: 467, 142
+  orig: 467, 142
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Sad
+  rotate: false
+  xy: 701, 1850
+  size: 495, 196
+  orig: 495, 196
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Shy_1
+  rotate: false
+  xy: 1198, 1732
+  size: 469, 126
+  orig: 469, 126
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Shy_2
+  rotate: false
+  xy: 2, 1213
+  size: 577, 155
+  orig: 577, 155
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Smile
+  rotate: true
+  xy: 307, 120
+  size: 470, 155
+  orig: 470, 155
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_Surprise
+  rotate: false
+  xy: 701, 1632
+  size: 458, 216
+  orig: 458, 216
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/eye_1_firm
+  rotate: false
+  xy: 2, 592
+  size: 458, 201
+  orig: 458, 201
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/hair
+  rotate: false
+  xy: 1161, 1446
+  size: 204, 110
+  orig: 204, 110
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/hand_inner
+  rotate: true
+  xy: 2, 7
+  size: 103, 156
+  orig: 103, 156
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/hand_out
+  rotate: false
+  xy: 1332, 970
+  size: 124, 158
+  orig: 124, 158
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_Angry
+  rotate: false
+  xy: 1660, 1434
+  size: 285, 140
+  orig: 285, 140
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_Battle_Injury
+  rotate: true
+  xy: 756, 850
+  size: 281, 144
+  orig: 281, 144
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_Battle_Mighty
+  rotate: true
+  xy: 756, 423
+  size: 284, 135
+  orig: 284, 135
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_Normal
+  rotate: false
+  xy: 870, 1134
+  size: 281, 145
+  orig: 281, 145
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_Normal1
+  rotate: true
+  xy: 902, 851
+  size: 281, 144
+  orig: 281, 144
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_Sad
+  rotate: false
+  xy: 1669, 1727
+  size: 319, 145
+  orig: 319, 145
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_Shy_1
+  rotate: true
+  xy: 609, 850
+  size: 281, 145
+  orig: 281, 145
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_Smile
+  rotate: false
+  xy: 614, 2
+  size: 282, 137
+  orig: 282, 137
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_Surprise
+  rotate: false
+  xy: 1664, 1874
+  size: 306, 172
+  orig: 306, 172
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_1_firm
+  rotate: false
+  xy: 1161, 1558
+  size: 306, 172
+  orig: 306, 172
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Happy_A
+  rotate: false
+  xy: 587, 1133
+  size: 281, 146
+  orig: 281, 146
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Normal_A
+  rotate: false
+  xy: 587, 1133
+  size: 281, 146
+  orig: 281, 146
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Happy_B
+  rotate: false
+  xy: 609, 709
+  size: 282, 139
+  orig: 282, 139
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Happy_C
+  rotate: true
+  xy: 614, 141
+  size: 282, 139
+  orig: 282, 139
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Happy_D
+  rotate: false
+  xy: 1048, 852
+  size: 282, 135
+  orig: 282, 135
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Normal_B
+  rotate: true
+  xy: 611, 425
+  size: 282, 143
+  orig: 282, 143
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Normal_C
+  rotate: false
+  xy: 1153, 1130
+  size: 285, 141
+  orig: 285, 141
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Normal_D
+  rotate: false
+  xy: 1048, 989
+  size: 282, 139
+  orig: 282, 139
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Unhappy_A
+  rotate: false
+  xy: 1660, 1576
+  size: 292, 149
+  orig: 292, 149
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Unhappy_B
+  rotate: true
+  xy: 464, 115
+  size: 292, 148
+  orig: 292, 148
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Unhappy_C
+  rotate: true
+  xy: 464, 409
+  size: 295, 145
+  orig: 295, 145
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/mouth_2_Unhappy_D
+  rotate: true
+  xy: 462, 706
+  size: 296, 145
+  orig: 296, 145
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/wing_inner
+  rotate: false
+  xy: 1469, 1565
+  size: 189, 165
+  orig: 189, 165
+  offset: 0, 0
+  index: -1
+Zigodlla_Skin02/wing_out
+  rotate: false
+  xy: 1170, 1273
+  size: 267, 171
+  orig: 267, 171
+  offset: 0, 0
+  index: -1
