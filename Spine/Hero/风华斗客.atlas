@@ -1,0 +1,552 @@
+
+风华斗客.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 1526, 168
+  size: 114, 236
+  orig: 114, 236
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 812, 1793
+  size: 278, 102
+  orig: 278, 102
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 112, 611
+  size: 186, 200
+  orig: 186, 200
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1636, 639
+  size: 120, 175
+  orig: 120, 175
+  offset: 0, 0
+  index: -1
+bianzi_1
+  rotate: true
+  xy: 1088, 1404
+  size: 226, 706
+  orig: 226, 706
+  offset: 0, 0
+  index: -1
+bianzi_2
+  rotate: false
+  xy: 2, 20
+  size: 190, 587
+  orig: 190, 587
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 1706, 1087
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 947, 1438
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: true
+  xy: 778, 618
+  size: 231, 291
+  orig: 231, 291
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 756, 1036
+  size: 372, 323
+  orig: 372, 323
+  offset: 0, 0
+  index: -1
+body_up_2
+  rotate: false
+  xy: 846, 2
+  size: 114, 85
+  orig: 114, 85
+  offset: 0, 0
+  index: -1
+body_up_3
+  rotate: true
+  xy: 1948, 1918
+  size: 125, 98
+  orig: 125, 98
+  offset: 0, 0
+  index: -1
+dianjian_inner
+  rotate: true
+  xy: 1692, 8
+  size: 177, 79
+  orig: 177, 79
+  offset: 0, 0
+  index: -1
+dianjian_out_1
+  rotate: true
+  xy: 1642, 187
+  size: 217, 117
+  orig: 217, 117
+  offset: 0, 0
+  index: -1
+dianjian_out_2
+  rotate: false
+  xy: 805, 1410
+  size: 112, 67
+  orig: 112, 67
+  offset: 0, 0
+  index: -1
+eye_1_Angry
+  rotate: true
+  xy: 981, 1438
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury
+  rotate: true
+  xy: 919, 1435
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Mighty
+  rotate: true
+  xy: 1759, 1132
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 1039, 1411
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 961, 1410
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 1000, 1410
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 1759, 1170
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+eye_1_Sad
+  rotate: true
+  xy: 1012, 1438
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+eye_1_Smile
+  rotate: false
+  xy: 1720, 1120
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+eye_1_Surprise
+  rotate: false
+  xy: 1758, 1103
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1071, 609
+  size: 205, 261
+  orig: 205, 261
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: false
+  xy: 1470, 4
+  size: 107, 162
+  orig: 107, 162
+  offset: 0, 0
+  index: -1
+hair_1_10
+  rotate: true
+  xy: 1773, 15
+  size: 209, 106
+  orig: 209, 106
+  offset: 0, 0
+  index: -1
+hair_1_11
+  rotate: false
+  xy: 1948, 1695
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+hair_1_12
+  rotate: true
+  xy: 1758, 609
+  size: 492, 288
+  orig: 492, 288
+  offset: 0, 0
+  index: -1
+hair_1_13
+  rotate: true
+  xy: 1341, 406
+  size: 208, 406
+  orig: 208, 406
+  offset: 0, 0
+  index: -1
+hair_1_14
+  rotate: false
+  xy: 1796, 1105
+  size: 250, 514
+  orig: 250, 514
+  offset: 0, 0
+  index: -1
+hair_1_15
+  rotate: false
+  xy: 194, 47
+  size: 86, 160
+  orig: 86, 160
+  offset: 0, 0
+  index: -1
+hair_1_16
+  rotate: false
+  xy: 1448, 621
+  size: 186, 193
+  orig: 186, 193
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: false
+  xy: 1720, 1278
+  size: 70, 124
+  orig: 70, 124
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: false
+  xy: 194, 209
+  size: 89, 177
+  orig: 89, 177
+  offset: 0, 0
+  index: -1
+hair_1_4
+  rotate: false
+  xy: 2, 610
+  size: 108, 201
+  orig: 108, 201
+  offset: 0, 0
+  index: -1
+hair_1_5
+  rotate: false
+  xy: 1334, 616
+  size: 112, 198
+  orig: 112, 198
+  offset: 0, 0
+  index: -1
+hair_1_6
+  rotate: false
+  xy: 1773, 365
+  size: 249, 122
+  orig: 249, 122
+  offset: 0, 0
+  index: -1
+hair_1_7
+  rotate: false
+  xy: 1579, 24
+  size: 111, 142
+  orig: 111, 142
+  offset: 0, 0
+  index: -1
+hair_1_8
+  rotate: true
+  xy: 1948, 1797
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+hair_1_9
+  rotate: false
+  xy: 1773, 489
+  size: 268, 118
+  orig: 268, 118
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 962, 4
+  size: 156, 128
+  orig: 156, 128
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: false
+  xy: 850, 162
+  size: 182, 445
+  orig: 182, 445
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: false
+  xy: 1201, 164
+  size: 138, 443
+  orig: 138, 443
+  offset: 0, 0
+  index: -1
+leg_out_down
+  rotate: false
+  xy: 300, 6
+  size: 184, 568
+  orig: 184, 568
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: false
+  xy: 1034, 162
+  size: 165, 445
+  orig: 165, 445
+  offset: 0, 0
+  index: -1
+lingzi_inner_1
+  rotate: false
+  xy: 1718, 972
+  size: 25, 127
+  orig: 25, 127
+  offset: 0, 0
+  index: -1
+lingzi_inner_2
+  rotate: true
+  xy: 756, 1410
+  size: 152, 47
+  orig: 152, 47
+  offset: 0, 0
+  index: -1
+lingzi_out_1
+  rotate: false
+  xy: 1720, 1149
+  size: 37, 127
+  orig: 37, 127
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: false
+  xy: 1759, 1229
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: false
+  xy: 1759, 1255
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Mighty
+  rotate: false
+  xy: 756, 1564
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 1720, 1101
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: true
+  xy: 1063, 1439
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+mouth_1_Sad
+  rotate: false
+  xy: 919, 1411
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+mouth_1_Smile
+  rotate: true
+  xy: 1041, 1439
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+mouth_1_Surprise
+  rotate: false
+  xy: 1759, 1209
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1761, 226
+  size: 127, 137
+  orig: 127, 137
+  offset: 0, 0
+  index: -1
+piaodai_1
+  rotate: true
+  xy: 194, 813
+  size: 184, 582
+  orig: 184, 582
+  offset: 0, 0
+  index: -1
+piaodai_2
+  rotate: true
+  xy: 486, 2
+  size: 85, 358
+  orig: 85, 358
+  offset: 0, 0
+  index: -1
+piaodai_3
+  rotate: false
+  xy: 194, 388
+  size: 104, 221
+  orig: 104, 221
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: true
+  xy: 486, 89
+  size: 485, 362
+  orig: 485, 362
+  offset: 0, 0
+  index: -1
+pifeng_10
+  rotate: true
+  xy: 778, 851
+  size: 183, 294
+  orig: 183, 294
+  offset: 0, 0
+  index: -1
+pifeng_11
+  rotate: true
+  xy: 1341, 168
+  size: 236, 183
+  orig: 236, 183
+  offset: 0, 0
+  index: -1
+pifeng_12
+  rotate: true
+  xy: 1948, 1621
+  size: 72, 92
+  orig: 72, 92
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: true
+  xy: 1081, 1105
+  size: 297, 637
+  orig: 297, 637
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: true
+  xy: 1081, 816
+  size: 287, 623
+  orig: 287, 623
+  offset: 0, 0
+  index: -1
+pifeng_4
+  rotate: true
+  xy: 2, 1321
+  size: 266, 752
+  orig: 266, 752
+  offset: 0, 0
+  index: -1
+pifeng_5
+  rotate: false
+  xy: 1092, 1632
+  size: 854, 411
+  orig: 854, 411
+  offset: 0, 0
+  index: -1
+pifeng_6
+  rotate: false
+  xy: 2, 1589
+  size: 808, 306
+  orig: 808, 306
+  offset: 0, 0
+  index: -1
+pifeng_7
+  rotate: false
+  xy: 1092, 9
+  size: 376, 151
+  orig: 376, 151
+  offset: 0, 0
+  index: -1
+pifeng_8
+  rotate: false
+  xy: 194, 999
+  size: 560, 320
+  orig: 560, 320
+  offset: 0, 0
+  index: -1
+pifeng_9
+  rotate: false
+  xy: 300, 576
+  size: 473, 235
+  orig: 473, 235
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 805, 1548
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 1897
+  size: 1088, 146
+  orig: 1088, 146
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 2, 813
+  size: 190, 506
+  orig: 190, 506
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 812, 1479
+  size: 274, 312
+  orig: 274, 312
+  offset: 0, 0
+  index: -1
