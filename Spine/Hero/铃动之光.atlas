@@ -1,0 +1,587 @@
+
+铃动之光.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zalrahda_Skin03/arm_inner_down
+  rotate: true
+  xy: 1713, 1039
+  size: 82, 191
+  orig: 82, 191
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/arm_inner_up
+  rotate: false
+  xy: 1532, 1062
+  size: 179, 172
+  orig: 179, 172
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/arm_out_down
+  rotate: true
+  xy: 1610, 889
+  size: 171, 91
+  orig: 171, 91
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/arm_out_up
+  rotate: false
+  xy: 1713, 1123
+  size: 185, 105
+  orig: 185, 105
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/blood_1
+  rotate: false
+  xy: 922, 95
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/blood_2
+  rotate: false
+  xy: 1958, 1274
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/body_up
+  rotate: true
+  xy: 1414, 63
+  size: 233, 208
+  orig: 233, 208
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/chest_inner
+  rotate: true
+  xy: 1680, 579
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/chest_out
+  rotate: true
+  xy: 1680, 692
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/ear
+  rotate: true
+  xy: 1623, 510
+  size: 85, 41
+  orig: 85, 41
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Angry
+  rotate: true
+  xy: 1987, 1504
+  size: 109, 59
+  orig: 109, 59
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Battle_Injury
+  rotate: true
+  xy: 1842, 822
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Battle_Mighty
+  rotate: true
+  xy: 1614, 597
+  size: 107, 64
+  orig: 107, 64
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Battle_Weak
+  rotate: true
+  xy: 1798, 691
+  size: 107, 58
+  orig: 107, 58
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Fear
+  rotate: false
+  xy: 1248, 14
+  size: 107, 56
+  orig: 107, 56
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Firm
+  rotate: false
+  xy: 922, 24
+  size: 106, 62
+  orig: 106, 62
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Normal_1
+  rotate: true
+  xy: 1927, 952
+  size: 107, 64
+  orig: 107, 64
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Normal_2
+  rotate: true
+  xy: 1190, 481
+  size: 109, 64
+  orig: 109, 64
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Normal_3
+  rotate: true
+  xy: 1614, 706
+  size: 109, 64
+  orig: 109, 64
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Shy_1
+  rotate: true
+  xy: 1987, 1280
+  size: 106, 58
+  orig: 106, 58
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Shy_2
+  rotate: true
+  xy: 1987, 1388
+  size: 114, 58
+  orig: 114, 58
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Smile
+  rotate: true
+  xy: 1863, 928
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Surprise
+  rotate: false
+  xy: 1906, 1061
+  size: 107, 65
+  orig: 107, 65
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_Worry
+  rotate: true
+  xy: 1794, 582
+  size: 107, 64
+  orig: 107, 64
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/eye_1_sad
+  rotate: false
+  xy: 1030, 28
+  size: 107, 58
+  orig: 107, 58
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/face
+  rotate: false
+  xy: 1190, 592
+  size: 251, 236
+  orig: 251, 236
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_1
+  rotate: false
+  xy: 1139, 28
+  size: 107, 58
+  orig: 107, 58
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_2
+  rotate: true
+  xy: 888, 1163
+  size: 76, 154
+  orig: 76, 154
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_3
+  rotate: true
+  xy: 1537, 1305
+  size: 308, 448
+  orig: 308, 448
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_4
+  rotate: true
+  xy: 1754, 1230
+  size: 73, 202
+  orig: 73, 202
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_5
+  rotate: false
+  xy: 651, 1150
+  size: 235, 729
+  orig: 235, 729
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_6
+  rotate: true
+  xy: 1059, 753
+  size: 83, 111
+  orig: 83, 111
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_inner_1
+  rotate: true
+  xy: 1578, 1615
+  size: 431, 458
+  orig: 431, 458
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_inner_2
+  rotate: false
+  xy: 2, 1128
+  size: 647, 918
+  orig: 647, 918
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_inner_3
+  rotate: false
+  xy: 888, 1241
+  size: 316, 638
+  orig: 316, 638
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_inner_4
+  rotate: false
+  xy: 1206, 1295
+  size: 329, 584
+  orig: 329, 584
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_inner_5
+  rotate: false
+  xy: 2, 211
+  size: 542, 915
+  orig: 542, 915
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hair_inner_6
+  rotate: false
+  xy: 1270, 304
+  size: 150, 286
+  orig: 150, 286
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hand_inner
+  rotate: false
+  xy: 1900, 1128
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hand_out
+  rotate: false
+  xy: 1537, 1236
+  size: 215, 67
+  orig: 215, 67
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hudiejie_1
+  rotate: false
+  xy: 1703, 800
+  size: 137, 120
+  orig: 137, 120
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hudiejie_2
+  rotate: true
+  xy: 2, 41
+  size: 168, 519
+  orig: 168, 519
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/hudiejie_3
+  rotate: false
+  xy: 546, 474
+  size: 248, 652
+  orig: 248, 652
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/leg_inner
+  rotate: true
+  xy: 651, 1881
+  size: 165, 925
+  orig: 165, 925
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/leg_out_down
+  rotate: true
+  xy: 1443, 576
+  size: 252, 169
+  orig: 252, 169
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/leg_out_up
+  rotate: false
+  xy: 1059, 838
+  size: 216, 401
+  orig: 216, 401
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Angry
+  rotate: false
+  xy: 1532, 1042
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Battle_Injury
+  rotate: false
+  xy: 1248, 72
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Battle_Mighty
+  rotate: true
+  xy: 1075, 2
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Battle_Weak
+  rotate: true
+  xy: 1566, 1860
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Fear
+  rotate: false
+  xy: 2, 2
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Firm
+  rotate: false
+  xy: 911, 1150
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Normal_1
+  rotate: false
+  xy: 1537, 1852
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Sad
+  rotate: true
+  xy: 1566, 1840
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Shy
+  rotate: false
+  xy: 1422, 576
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Smile
+  rotate: false
+  xy: 651, 1128
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Surprise
+  rotate: false
+  xy: 1044, 1225
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_1_Worry
+  rotate: false
+  xy: 1680, 800
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_Normal_A
+  rotate: false
+  xy: 888, 1150
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_Normal_B
+  rotate: true
+  xy: 1256, 570
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_Normal_C
+  rotate: false
+  xy: 1927, 935
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_Normal_D
+  rotate: false
+  xy: 1206, 1276
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_happy_A
+  rotate: true
+  xy: 1172, 815
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_happy_B
+  rotate: true
+  xy: 1055, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_happy_C
+  rotate: false
+  xy: 2, 18
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_happy_D
+  rotate: true
+  xy: 1030, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_unhappy_A
+  rotate: false
+  xy: 1993, 1049
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_unhappy_B
+  rotate: true
+  xy: 1256, 551
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_unhappy_C
+  rotate: false
+  xy: 1906, 1044
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/mouth_2_unhappy_D
+  rotate: false
+  xy: 523, 191
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/neck
+  rotate: false
+  xy: 858, 18
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/qunzi_1
+  rotate: false
+  xy: 546, 191
+  size: 390, 281
+  orig: 390, 281
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/qunzi_2
+  rotate: false
+  xy: 796, 743
+  size: 261, 405
+  orig: 261, 405
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/qunzi_3
+  rotate: false
+  xy: 938, 88
+  size: 330, 387
+  orig: 330, 387
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/qunzi_4
+  rotate: false
+  xy: 523, 32
+  size: 333, 157
+  orig: 333, 157
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/qunzi_5
+  rotate: false
+  xy: 1277, 830
+  size: 331, 165
+  orig: 331, 165
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/qunzi_6
+  rotate: false
+  xy: 1422, 298
+  size: 199, 276
+  orig: 199, 276
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/qunzi_7
+  rotate: true
+  xy: 1277, 997
+  size: 296, 253
+  orig: 296, 253
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/qunzi_8
+  rotate: false
+  xy: 796, 477
+  size: 392, 264
+  orig: 392, 264
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/toushi_1
+  rotate: true
+  xy: 858, 107
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/toushi_2
+  rotate: false
+  xy: 1614, 817
+  size: 87, 70
+  orig: 87, 70
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/toushi_3
+  rotate: false
+  xy: 1270, 72
+  size: 142, 230
+  orig: 142, 230
+  offset: 0, 0
+  index: -1
+Zalrahda_Skin03/yueqi_2
+  rotate: true
+  xy: 1703, 922
+  size: 115, 158
+  orig: 115, 158
+  offset: 0, 0
+  index: -1
