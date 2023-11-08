@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Error>
+	<Code>NoSuchKey</Code>
+	<Message>The specified key does not exist.</Message>
+	<Resource>/Spine/Char/NPC_Anjelica_ABS/Anjelica.skel</Resource>
+	<RequestId>NjU0YjI2ZGNfYWNiMzE0MGJfMzk5Ml8xMDJhM2Y3MA==</RequestId>
+	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc0OWRkZjk0ZDM1NmI1M2E2MTRlY2MzZDhmNmI5MWI1OTVlNGMxNDIzNDk3MzBjZDllZGY1MzE5MTM5N2ZmOTE4MWE0ZDNmM2FhNWM3OGRlOWM4OGFmOWU2N2MxODU2Y2U=</TraceId>
+</Error>
+
