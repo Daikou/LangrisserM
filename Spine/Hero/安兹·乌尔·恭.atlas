@@ -1,0 +1,188 @@
+
+安兹·乌尔·恭.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_out_down
+  rotate: false
+  xy: 1614, 876
+  size: 209, 679
+  orig: 209, 679
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 694, 209
+  size: 88, 201
+  orig: 88, 201
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 1105
+  size: 930, 941
+  orig: 930, 941
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 1370, 1557
+  size: 437, 489
+  orig: 437, 489
+  offset: 0, 0
+  index: -1
+daizi_1
+  rotate: false
+  xy: 2, 70
+  size: 173, 1033
+  orig: 173, 1033
+  offset: 0, 0
+  index: -1
+daizi_2
+  rotate: false
+  xy: 1190, 914
+  size: 178, 1132
+  orig: 178, 1132
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 897, 157
+  size: 139, 200
+  orig: 139, 200
+  offset: 0, 0
+  index: -1
+jianjia_1
+  rotate: true
+  xy: 1447, 452
+  size: 422, 359
+  orig: 422, 359
+  offset: 0, 0
+  index: -1
+jianjia_2
+  rotate: false
+  xy: 1447, 257
+  size: 436, 193
+  orig: 436, 193
+  offset: 0, 0
+  index: -1
+jiao_1
+  rotate: true
+  xy: 1230, 358
+  size: 554, 215
+  orig: 554, 215
+  offset: 0, 0
+  index: -1
+jiao_2
+  rotate: true
+  xy: 1809, 1579
+  size: 467, 176
+  orig: 467, 176
+  offset: 0, 0
+  index: -1
+lingzi_1
+  rotate: true
+  xy: 177, 137
+  size: 153, 219
+  orig: 153, 219
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 398, 230
+  size: 294, 142
+  orig: 294, 142
+  offset: 0, 0
+  index: -1
+peishi_1
+  rotate: true
+  xy: 398, 103
+  size: 125, 235
+  orig: 125, 235
+  offset: 0, 0
+  index: -1
+peishi_2
+  rotate: true
+  xy: 177, 37
+  size: 98, 216
+  orig: 98, 216
+  offset: 0, 0
+  index: -1
+peishi_3
+  rotate: false
+  xy: 1963, 1399
+  size: 77, 178
+  orig: 77, 178
+  offset: 0, 0
+  index: -1
+peishi_4
+  rotate: true
+  xy: 395, 2
+  size: 99, 232
+  orig: 99, 232
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: false
+  xy: 1370, 932
+  size: 242, 623
+  orig: 242, 623
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: true
+  xy: 702, 299
+  size: 608, 218
+  orig: 608, 218
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: false
+  xy: 177, 292
+  size: 219, 811
+  orig: 219, 811
+  offset: 0, 0
+  index: -1
+pifeng_4
+  rotate: true
+  xy: 398, 909
+  size: 194, 534
+  orig: 194, 534
+  offset: 0, 0
+  index: -1
+pifeng_5
+  rotate: false
+  xy: 1099, 146
+  size: 188, 150
+  orig: 188, 150
+  offset: 0, 0
+  index: -1
+pifeng_6
+  rotate: true
+  xy: 922, 298
+  size: 470, 306
+  orig: 470, 306
+  offset: 0, 0
+  index: -1
+pifeng_7
+  rotate: false
+  xy: 398, 374
+  size: 302, 533
+  orig: 302, 533
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 934, 770
+  size: 254, 1276
+  orig: 254, 1276
+  offset: 0, 0
+  index: -1
+xiuzi_1
+  rotate: false
+  xy: 1825, 902
+  size: 136, 675
+  orig: 136, 675
+  offset: 0, 0
+  index: -1

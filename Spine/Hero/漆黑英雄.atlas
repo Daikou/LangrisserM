@@ -1,0 +1,188 @@
+
+漆黑英雄.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 1344, 1358
+  size: 202, 573
+  orig: 202, 573
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 1822, 106
+  size: 201, 527
+  orig: 201, 527
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 377, 3
+  size: 160, 301
+  orig: 160, 301
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 1344, 1562
+  size: 484, 584
+  orig: 484, 584
+  offset: 0, 0
+  index: -1
+jianjia_1
+  rotate: false
+  xy: 246, 595
+  size: 315, 253
+  orig: 315, 253
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: true
+  xy: 377, 347
+  size: 246, 714
+  orig: 246, 714
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: true
+  xy: 563, 617
+  size: 231, 418
+  orig: 231, 418
+  offset: 0, 0
+  index: -1
+leg_out_down
+  rotate: false
+  xy: 1635, 20
+  size: 185, 796
+  orig: 185, 796
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: false
+  xy: 2, 47
+  size: 373, 534
+  orig: 373, 534
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: true
+  xy: 1093, 165
+  size: 416, 249
+  orig: 416, 249
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: false
+  xy: 1344, 1186
+  size: 553, 170
+  orig: 553, 170
+  offset: 0, 0
+  index: -1
+pifeng_4
+  rotate: true
+  xy: 2, 585
+  size: 263, 242
+  orig: 263, 242
+  offset: 0, 0
+  index: -1
+pifeng_5
+  rotate: false
+  xy: 1930, 1553
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+pifeng_6
+  rotate: true
+  xy: 1822, 36
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+pifeng_7
+  rotate: false
+  xy: 2, 1103
+  size: 1340, 943
+  orig: 1340, 943
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 680, 7
+  size: 165, 309
+  orig: 165, 309
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 850
+  size: 251, 1123
+  orig: 251, 1123
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 1344, 2
+  size: 289, 1182
+  orig: 289, 1182
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 1919, 1152
+  size: 72, 399
+  orig: 72, 399
+  offset: 0, 0
+  index: -1
+weapon_4
+  rotate: false
+  xy: 1837, 635
+  size: 72, 332
+  orig: 72, 332
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 1635, 838
+  size: 200, 129
+  orig: 200, 129
+  offset: 0, 0
+  index: -1
+yaojia_1
+  rotate: true
+  xy: 1918, 818
+  size: 332, 128
+  orig: 332, 128
+  offset: 0, 0
+  index: -1
+yaojia_2
+  rotate: false
+  xy: 1127, 583
+  size: 192, 518
+  orig: 192, 518
+  offset: 0, 0
+  index: -1
+yaojia_3
+  rotate: false
+  xy: 1930, 1598
+  size: 84, 448
+  orig: 84, 448
+  offset: 0, 0
+  index: -1
+yaojia_4
+  rotate: true
+  xy: 377, 174
+  size: 171, 499
+  orig: 171, 499
+  offset: 0, 0
+  index: -1
+yaojia_5
+  rotate: false
+  xy: 1635, 969
+  size: 281, 215
+  orig: 281, 215
+  offset: 0, 0
+  index: -1
