@@ -16,14 +16,14 @@
       "inheritScale": true
     },
     {
-      "name": "Wataru",
+      "name": "default",
       "parent": "zzz_Cutscene",
       "inheritRotation": true,
       "inheritScale": true
     },
     {
       "name": "biped",
-      "parent": "Wataru",
+      "parent": "default",
       "x": -3.33115816116333,
       "y": 356.6912841796875,
       "inheritRotation": true,
@@ -137,7 +137,7 @@
     },
     {
       "name": "bone7",
-      "parent": "Wataru",
+      "parent": "default",
       "rotation": -153.4869384765625,
       "x": -28.54378890991211,
       "y": 8.495086669921875,
@@ -1052,7 +1052,7 @@
   "path": [],
   "skins": [
     {
-      "name": "Wataru",
+      "name": "default",
       "attachments": {
         "weapon_4": {
           "weapon_4": {
@@ -11742,7 +11742,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -11769,7 +11769,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
@@ -15454,7 +15454,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -15481,7 +15481,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
@@ -19166,7 +19166,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -19193,7 +19193,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
@@ -22878,7 +22878,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -22905,7 +22905,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
@@ -28128,7 +28128,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -28155,7 +28155,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
@@ -36571,7 +36571,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -36598,7 +36598,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
@@ -40283,7 +40283,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -40310,7 +40310,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
@@ -41881,7 +41881,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -45668,7 +45668,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
@@ -48746,7 +48746,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -50959,7 +50959,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
@@ -56873,7 +56873,7 @@
             }
           ]
         },
-        "Wataru": {
+        "default": {
           "rotate": [
             {
               "time": 0,
@@ -56900,7 +56900,7 @@
       "transform": {},
       "paths": {},
       "deform": {
-        "Wataru": {
+        "default": {
           "arm_inner_down": {
             "arm_inner_down": [
               {
