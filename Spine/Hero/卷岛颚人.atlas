@@ -1,0 +1,195 @@
+
+卷岛颚人.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 1257, 425
+  size: 484, 162
+  orig: 484, 162
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1743, 250
+  size: 192, 337
+  orig: 192, 337
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 1263, 179
+  size: 400, 244
+  orig: 400, 244
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 834, 129
+  size: 270, 427
+  orig: 270, 427
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 2005, 985
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 2022, 1004
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: true
+  xy: 1718, 407
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 1646, 140
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+blood_5
+  rotate: false
+  xy: 1406, 741
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+blood_6
+  rotate: false
+  xy: 1665, 184
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+blood_7
+  rotate: true
+  xy: 1718, 395
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+blood_8
+  rotate: false
+  xy: 1257, 623
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+blood_9
+  rotate: false
+  xy: 1257, 416
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 48
+  size: 371, 351
+  orig: 371, 351
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: true
+  xy: 1426, 589
+  size: 429, 504
+  orig: 429, 504
+  offset: 0, 0
+  index: -1
+body_up_2
+  rotate: false
+  xy: 1932, 705
+  size: 69, 107
+  orig: 69, 107
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 375, 154
+  size: 245, 457
+  orig: 245, 457
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 1519, 4
+  size: 173, 125
+  orig: 173, 125
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 1257, 650
+  size: 147, 105
+  orig: 147, 105
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: true
+  xy: 2, 401
+  size: 354, 1253
+  orig: 354, 1253
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 2, 757
+  size: 261, 1422
+  orig: 261, 1422
+  offset: 0, 0
+  index: -1
+neck_1
+  rotate: false
+  xy: 375, 30
+  size: 184, 122
+  orig: 184, 122
+  offset: 0, 0
+  index: -1
+neck_2
+  rotate: false
+  xy: 561, 46
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+neck_3
+  rotate: true
+  xy: 2, 2
+  size: 44, 109
+  orig: 44, 109
+  offset: 0, 0
+  index: -1
+yaojia_1
+  rotate: true
+  xy: 1932, 814
+  size: 204, 71
+  orig: 204, 71
+  offset: 0, 0
+  index: -1
+yaojia_2
+  rotate: true
+  xy: 1263, 12
+  size: 165, 254
+  orig: 165, 254
+  offset: 0, 0
+  index: -1
+yaojia_3
+  rotate: false
+  xy: 1665, 213
+  size: 51, 210
+  orig: 51, 210
+  offset: 0, 0
+  index: -1
