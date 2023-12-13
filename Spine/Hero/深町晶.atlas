@@ -1,0 +1,146 @@
+
+深町晶.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down_1
+  rotate: false
+  xy: 1940, 843
+  size: 48, 84
+  orig: 48, 84
+  offset: 0, 0
+  index: -1
+arm_inner_down_2
+  rotate: true
+  xy: 315, 68
+  size: 207, 378
+  orig: 207, 378
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 695, 55
+  size: 255, 394
+  orig: 255, 394
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 1212, 331
+  size: 258, 561
+  orig: 258, 561
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1675, 625
+  size: 263, 390
+  orig: 263, 390
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 1091, 120
+  size: 209, 400
+  orig: 209, 400
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: true
+  xy: 1775, 330
+  size: 293, 271
+  orig: 293, 271
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 1212, 591
+  size: 461, 424
+  orig: 461, 424
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1493, 119
+  size: 209, 400
+  orig: 209, 400
+  offset: 0, 0
+  index: -1
+face1
+  rotate: true
+  xy: 1175, 64
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 165, 18
+  size: 126, 170
+  orig: 126, 170
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 2, 41
+  size: 161, 147
+  orig: 161, 147
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: false
+  xy: 315, 277
+  size: 331, 738
+  orig: 331, 738
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: false
+  xy: 949, 343
+  size: 261, 672
+  orig: 261, 672
+  offset: 0, 0
+  index: -1
+leg_out_down
+  rotate: false
+  xy: 2, 190
+  size: 311, 825
+  orig: 311, 825
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: false
+  xy: 648, 312
+  size: 299, 703
+  orig: 299, 703
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1895, 153
+  size: 175, 129
+  orig: 175, 129
+  offset: 0, 0
+  index: -1
+xiongshi_1
+  rotate: false
+  xy: 1940, 929
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+xiongshi_2
+  rotate: false
+  xy: 1091, 65
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+xiongshi_3
+  rotate: true
+  xy: 2, 2
+  size: 37, 92
+  orig: 37, 92
+  offset: 0, 0
+  index: -1
